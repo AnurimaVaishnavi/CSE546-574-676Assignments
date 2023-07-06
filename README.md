@@ -1,1 +1,1 @@
-Files from the Assignments completed in the courses Machine Learning and Reinforcement Learning
+Files from the Assignments completed in the courses Machine Learning , Reinforcement Learning, and Deep Learning
